@@ -1,0 +1,112 @@
+
+.FAQ-section
+{
+    background-color: black;
+    height:100%;
+    margin:0;
+    padding:0;
+   
+}
+.FAQ-heading
+{
+    text-align: center;
+    color:white;
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top:45px;
+    margin-bottom:18px;
+}
+.FAQ-Questions
+{
+    color:white;
+    display:flex;
+    flex-direction:column;
+    column-gap:0;
+}
+.Ques-1
+{
+    background-color: rgb(66, 66, 67);
+    margin:0;
+    margin-bottom:9px;
+    padding-left:5px;
+    display:flex;
+    justify-content: space-between;
+    height:72px;
+    align-items: center;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 15px;
+    padding-right:15px;
+}
+.plus
+{
+    height:18px;
+    display:flex;
+}
+.Ques-1:hover
+{
+    cursor:pointer;
+    background-color: rgba(127, 127, 128, 0.4);
+}
+.FAQ-miscellaneous
+{
+    text-align: center;
+    color:white;
+    font-weight: 400;
+    font-size:1.125rem;
+    line-height: 1.5;
+}
+.miscellaneous
+{
+    color:white;
+    font-weight:700;
+    font-size: 25px;
+    margin-bottom:15px;
+}
+
+.miscellaneous
+{
+    text-align:center;
+}
+
+.get-started
+{
+    color:white;
+    background-color:rgb(240, 49, 49);
+    height: 45px;
+    border-radius: 5px;
+    border-color: none;
+   
+}
+.get-started:hover
+{
+    cursor: pointer;
+    background-color:rgb(227, 77, 77);
+
+}
+.email
+{
+    color:rgb(68, 67, 67);
+    height: 45px;
+    width: 300px;
+    margin-right:5px;
+}
+.email
+{
+    background-color: rgba(81, 79, 79, 0.7);
+    
+}
+.email::placeholder
+{
+    color:rgb(240, 236, 236);
+}
+input[type="searchbox"] {
+    color: white;
+}
+.centering
+{
+  display: flex;
+  place-items: center; 
+  justify-content: center;
+  padding-bottom:30px;
+}
