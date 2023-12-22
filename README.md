@@ -1,3 +1,4 @@
+Site preview👇
 ![Screenshot 2023-12-22 164526](https://github.com/ControllerKid/Netflic-clone/assets/141515182/a57e41d7-1388-4446-8ab8-05f86ca27f6d)
 
 ![image](https://github.com/ControllerKid/Netflic-clone/assets/141515182/f8708aed-099a-44d9-83c4-459f9568e62f)
